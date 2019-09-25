@@ -9,7 +9,7 @@ There are also lessons on metatables and how to achieve object oriented techniqu
 The lessons are:
 - [Lua state](00-lua-state/lua-state.md)
 - [Lua stack - the key to understanding the Lua C API](01-lua-stack-key-to-understanding-c-api/lua-stack-key-to-understanding-c-api.md)
-- [Calling Lua function from C/C++](02-calling-lua-function/calling-lua-function)
+- [Calling Lua function from C/C++](02-calling-lua-function/calling-lua-function.md)
 - [Implementing a Lua library in C/C++](03-implementing-lua-library-in-cpp/implementing-lua-library-in-cpp.md)
 - [Manipulating Lua tables in C/C++](04-manipulating-lua-tables-in-cpp/manipluating-lua-tables-in-cpp.md)
 - [Lua metatables](05-lua-metatables/lua-metatables.md)
